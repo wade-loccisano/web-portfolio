@@ -9,14 +9,12 @@
               <b-nav-item href="https://drive.google.com/file/d/17tyC2-tGcICv6fQMn2sVXJHrIYt45Y21/view?usp=sharing">Resume</b-nav-item>
               <b-nav-item href="https://www.linkedin.com/in/wade-loccisano">LinkedIn</b-nav-item>
               <b-nav-item href="https://github.com/wade-loccisano">Github</b-nav-item>
-              <!-- <b-nav-item to="/about">Email</b-nav-item> -->
             </b-navbar-nav>
             <b-navbar-nav class="ml-auto d-md-none">
-              <b-dropdown text="Info" right size="sm">
+              <b-dropdown text="About" right size="sm">
                 <b-dropdown-item href="https://drive.google.com/file/d/17tyC2-tGcICv6fQMn2sVXJHrIYt45Y21/view?usp=sharing">Resume</b-dropdown-item>
                 <b-dropdown-item href="https://www.linkedin.com/in/wade-loccisano">LinkedIn</b-dropdown-item>
                 <b-dropdown-item href="https://github.com/wade-loccisano">Github</b-dropdown-item>
-                <!-- <b-dropdown-item to="/about">Email</b-dropdown-item> -->
               </b-dropdown>
             </b-navbar-nav>
         </b-collapse>
