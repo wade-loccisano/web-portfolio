@@ -12,7 +12,7 @@
               <!-- <b-nav-item to="/about">Email</b-nav-item> -->
             </b-navbar-nav>
             <b-navbar-nav class="ml-auto d-md-none">
-              <b-dropdown text="Information">
+              <b-dropdown text="Info" right size="sm">
                 <b-dropdown-item href="https://drive.google.com/file/d/17tyC2-tGcICv6fQMn2sVXJHrIYt45Y21/view?usp=sharing">Resume</b-dropdown-item>
                 <b-dropdown-item href="https://www.linkedin.com/in/wade-loccisano">LinkedIn</b-dropdown-item>
                 <b-dropdown-item href="https://github.com/wade-loccisano">Github</b-dropdown-item>
@@ -52,7 +52,7 @@
   font-size: 1.35rem !important;
 }
 .navbar-brand {
-  font-size: 1.95rem !important;
+  font-size: 1.85rem !important;
 }
 
 </style>
