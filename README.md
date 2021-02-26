@@ -12,5 +12,5 @@ This is the second iteration of my web portfolio built in Vue.js. Now features b
 
 Check it out on github-pages!
 ```
-link here
+https://wade-loccisano.github.io/
 ```
